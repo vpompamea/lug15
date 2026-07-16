@@ -19,7 +19,7 @@ public class VideoRegistratoreTest {
         System.out.print("Inserisci il numero del canale da 1 a 999: ");
         mioVideoRegistratore.setCanale(inputNumeri.nextInt());
         
-        System.out.print("Inserisci l'anno della registrazione (es. 2027): ");
+        System.out.print("Inserisci l'anno della registrazione (es. 2026): ");
         mioVideoRegistratore.setAnno(inputNumeri.nextInt());
         
         System.out.print("Inserisci il mese (1-12): ");
